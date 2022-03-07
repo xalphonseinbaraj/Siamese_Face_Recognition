@@ -17,7 +17,7 @@ setup(
     version=VERSION,
     author="AlphonseInbarajXavier",
     author_email="xalphonse@gmail.com",
-    url='https://github.com/ageitgey/face_recognition',
+    url='https://github.com/xalphonseinbaraj/Siamese_Face_Recognition',
     description=DESCRIPTION,
     long_description_content_type="text/markdown",
     long_description=long_description,
